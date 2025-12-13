@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Voyager,flyby(BUMP OF CHICKEN TOUR ホームシック衛星2024 at ARIAKE ARENA - DAY2 -)",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-13T10:13:42.866985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Voyager,flyby (BUMP OF CHICKEN TOUR ホームシック衛星2024 at ARIAKE ARENA - DAY2 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Voyager,flyby_(BUMP_OF_CHICKEN_TOUR_ホームシック衛星2024_at_ARIAKE_ARENA_-_DAY2_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Voyager,flyby  (BUMP OF CHICKEN TOUR HOMESICK EISEI 2024 at ARIAKE ARENA - DAY2 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/02_Voyager,flyby_(BUMP_OF_CHICKEN_TOUR_HOMESICK_EISEI_2024_at_ARIAKE_ARENA_-_DAY2_-_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Voyager,flyby(BUMP OF CHICKEN TOUR ホームシック衛星2024 at ARIAKE ARENA - DAY2-)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_Voyager,flyby(BUMP_OF_CHICKEN_TOUR_ホームシック衛星2024_at_ARIAKE_ARENA_-_DAY2-)_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
